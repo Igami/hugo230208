@@ -1,4 +1,4 @@
-baseurl = "https://igami.github.io/hugo230208/"
+baseurl = "/"
 metaDataFormat = "yaml"
 title = "Blist Multilingual Theme"
 theme = "blist"
@@ -13,7 +13,7 @@ DefaultContentLanguageInSubdir = true
     [languages.en.params]
       introTitle = "Hey! I'm Katheryn Fox"
       introSubtitle = "26 y/o junior developer who enjoys social card games, blogging and painting"
-      introPhoto = "picture.jpg"
+      introPhoto = "/picture.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
